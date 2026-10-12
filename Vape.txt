@@ -1,2 +1,680 @@
--- This script was generated using MoonVeil 2.0.26 [https://moonveil.cc]
-return({function(a)local _,i,h,c,f f=string h,i=f.gsub,f.char i={[0b10]=1,[1]=i}i[0b11]=i h={[0b10]=1,[1]=h}h[0b11]=h c=bit32 _,f=c.band,c.rshift f={[0b10]=1,[1]=f}f[0b11]=f _={[0b10]=1,[1]=_}_[0b11]=_ c=a:r{f,_,h,i}return c end,function(a,g)return function(...)local h,j,n,f,_,m,o,i,k,l,d,b b=0xc4 while true do if b<=0b10011101 then if b>=0x3f then if b<0b1101001 then if b<=0x3f then d=a.h(d(i,f))return a.i(d)else n=a.h(n(d,i,f))return a.i(n)end elseif b<=0b1101001 then b=0b11100111 n(d,i,f,_,m)else l(o,n,d,i,f)o=g[0b1000][0b11][g[0b1000][0b10]]o,l=j.n,o[0xf58d]b=l<o and 0x946a/b or 0x8dab/b end elseif b<=0b11000 then if b<=0 then l,o=l(a.i(o))n=l[1]b=n and 0b11110001-b or 0x18 else n,b,d=l[0b10],0b111111,g[0b111][0b11][g[0b111][0b10]]f,i=0,n end else j=j(a.i(h))b,h,k=0b11110100,g[0b1001][0b11][g[0b1001][0b10]],g[0b1000][0b11][g[0b1000][0b10]]k=k[0xe1f2]end elseif b<0b11110001 then if b<=0b11100111 then if b<=0xc4 then h,b,j=a.h(...),0x25,g[0b110][0b11][g[0b110][0b10]]else o,n,l,i,b,d=g[0b11][0b11][g[0b11][0b10]],g[1][0b11][g[1][0b10]],g[0b10][0b11][g[0b10][0b10]],k,0x1d7-b,h end else b,o=0,a.h(o(n,d,i))end elseif b>0xf2 then h=h(k)n,l={},{}o=n l[0x9ac7]=o o=0 b,l[0x3a27]=0x95a4/b,o i,o,l,n,k=g[0b1000][0b11][g[0b1000][0b10]],j,g[0b100][0b11][g[0b100][0b10]],1,l i,d,f=n,i[0xf58d],h elseif b<=0b11110001 then b,i,n,f,d=0x41,0b10,g[0b101][0b11][g[0b101][0b10]],o,l else n=g[0b1000][0b11][g[0b1000][0b10]]o,n=n[0xf58d],1 n,l,i=j.n,o+n,g[0b1000][0b11][g[0b1000][0b10]]b,d=b+-0x89,i[0xf58d]o=n-d k[0x3a27]=o d,i,n,_,m=j,l,g[0b100][0b11][g[0b100][0b10]],l+o,1 m,f,_=k[0x9ac7],_-m,m end end end end,function(a)local w,r,b,s,q,d,i,k,x,j,c,v,z,m,n,l,A,o,p,B,f,h,y,t,e j=a j={[0b10]=1,[1]=j}j[0b11]=j h=a._[a.O[0x533f]or a:P(a.q"w0^K+",a.q"zy|",0x533f)]h={[0b10]=1,[1]=h}h[0b11]=h t=a._[a.O[0x6121]or a:P(a.q"aEM`tYy",a.q"0P6",0x6121)]t={[0b10]=1,[1]=t}t[0b11]=t r=a._[a.O[-0x1122]or a:P(a.q"q_eZGvj",a.q"!NC",-0x1122)]r={[0b10]=1,[1]=r}r[0b11]=r v,n=a._[a.O[0x5292]or a:P(a.q"Ook<-Rf{g8",a.q"IO$8#",0x5292)],a._[a.O[-0x7ea2]or a:P(a.q"Py<O2Qv",a.q"AYu",-0x7ea2)]n={[0b10]=1,[1]=n}n[0b11]=n w=a._[a.O[-0b10101]or a:P(a.q"nJHP1FF^",a.q">P$5",-0b10101)]w={[0b10]=1,[1]=w}w[0b11]=w z=a._[a.O[-0x2be9]or a:P(a.q"iwd2L^s$*6h=cv0",a.q"_;2aqk;M",-0x2be9)]z={[0b10]=1,[1]=z}z[0b11]=z p=a._[a.O[0x405a]or a:P(a.q"+Sll`gG1cL{kw`%",a.q"y|SFy<~I",0x405a)]p={[0b10]=1,[1]=p}p[0b11]=p e,s=a.O[-0x6156]or a:P(a.q"ba4",a.q"0s",-0x6156),{}s[a.O[0x691f]or a:P(a.q"izz3&5-$",a.q")OJb",0x691f)]=e B=s B={[0b10]=1,[1]=B}B[0b11]=B e=a._[a.O[-0x7719]or a:P(a.q"z((5IT+a",a.q"vofd",-0x7719)]s=e[a.O[-0x67ad]or a:P(a.q"-vNTl44D",a.q"s&Dc",-0x67ad)]s={[0b10]=1,[1]=s}s[0b11]=s c=e e=c[a.O[-0x20cd]or a:P(a.q"@xAAv",a.q"lf(",-0x20cd)]e={[0b10]=1,[1]=e}e[0b11]=e x=c m,c=x,x[a.O[-0x3c7e]or a:P(a.q";5_0c",a.q"gH!",-0x3c7e)]x=m[a.O[0x23e6]or a:P(a.q"PV6XM;vo",a.q"DS=4",0x23e6)]x={[0b10]=1,[1]=x}x[0b11]=x l=a._[a.O[0x4540]or a:P(a.q"?LhlY`~",a.q"nIQ",0x4540)]m=l[a.O[0x2ebf]or a:P(a.q"TW3IR",a.q"HV6",0x2ebf)]m={[0b10]=1,[1]=m}m[0b11]=m q=l l=q[a.O[-0x10ed]or a:P(a.q"3yc_s",a.q"d+h",-0x10ed)]l={[0b10]=1,[1]=l}l[0b11]=l k=q q=k[a.O[-0x4c31]or a:P(a.q"0kO{mx6c",a.q"V#BH",-0x4c31)]q={[0b10]=1,[1]=q}q[0b11]=q b=k k=b[a.O[0x6d29]or a:P(a.q"HSAhB@Ld",a.q"T!JY",0x6d29)]k={[0b10]=1,[1]=k}k[0b11]=k y=a._[a.O[0x100f]or a:P(a.q"02CHZPy",a.q"Vto",0x100f)]b=y[a.O[0x6a3e]or a:P(a.q"&%)m",a.q"tp",0x6a3e)]b={[0b10]=1,[1]=b}b[0b11]=b d=y y,f=d[a.O[-0x22d9]or a:P(a.q"p81pW",a.q"{DA",-0x22d9)],d d=f[a.O[0xcb6]or a:P(a.q"ytuHv",a.q"-q`",0xcb6)]d={[0b10]=1,[1]=d}d[0b11]=d o=f f=o[a.O[-0x7198]or a:P(a.q"7LpN_00",a.q"bmj",-0x7198)]f={[0b10]=1,[1]=f}f[0b11]=f A=o o=A[a.O[0x60f6]or a:P(a.q"oKUWrMX~",a.q"@FT_",0x60f6)]o={[0b10]=1,[1]=o}o[0b11]=o A={[0b10]=1,[1]=A}A[0b11]=A A[0b11][A[0b10]]=a:H{k,f,q,d,j,s,b,o}i=a:G{e,l,m,d,w,p,h,x,B,q,t,A,n,z,r}return i end,function(a,g)return function(j,h)local e,f,c,_ j={[0b10]=1,[1]=j}j[0b11]=j h={[0b10]=1,[1]=h}h[0b11]=h f=a:J{g[0b1100]}f={[0b10]=1,[1]=f}f[0b11]=f _=nil _={[0b10]=1,[1]=_}_[0b11]=_ _[0b11][_[0b10]]=a:K{_}c={[0b10]=1,[1]=c}c[0b11]=c c[0b11][c[0b10]]=a:L{g[0b1001],g[0b1000],g[0b100],h,g[0b1010],g[0b11],f,j,g[1],_,g[0b1110],g[0b111],g[0b10],g[0b101],g[0b1101],g[0b110]}e=a:M{c,f,g[0x10],g[0b101],_,g[0b1011],g[0b1111],j,g[0b100]}return e end end,function(a,g)return function(j,h,k)local c,e,i,l,d,b b=a.O[0x39ef]or a:R(0b1111011,0x39ef)while true do if b>0x7b then c=a.h(c(e,d,i))return l,a.i(c)elseif b<=0x39 then if b<=0b110000 then c,b,l,e,i=g[1][0b11][g[1][0b10]],b+0x63,j[h],j,1 d,i=h+i,k else return end else b=h>k and(a.O[-0x4efd]or a:R(0b111001,-0x4efd))or(a.O[0x4f0a]or a:Q(0x836f6f5,0x836f6c5,0x4f0a))end end end end,function(a,g)return function(...)local f,d,b,_,h b=a.O[-0xb3b]or a:Q(0x36ef54bb,0x36ef5414,-0xb3b)while true do if b>=0xaf then _,f=a.h(...),{}b=a.O[-0x6486]or a:Q(2840795830,2840795680,-0x6486)a.j(f,1,a.i(_))f,_,h,d="#",a.h(...),g[1][0b11][g[1][0b10]],f else h=a.h(h(f,a.i(_)))return d,a.i(h)end end end end,(function()local q,i,s=type,getmetatable,pairs return function(u,v,w)if q(u)~="function"then local p=i(u)if p~=nil and p.__iter~=nil then return p.__iter(u)elseif(p and p.__call)==nil and q(u)=="table"then return s(u)end end return u,v,w end end)(),function(a,...)a.q,a.t,a.m=a:q(),a:t(),a:m()a.F=a:F()return a:k()(...)end,bit32.bxor,function(a,g)return function(j,h)local o,e,_,q,d,k,l,n,i,p,c,b b=0b10010111 while true do if b>0b10010111 then if b<=0xc7 then if b<=0b10111000 then if b<=0xaf then if b<=0xa8 then b=l>o and 0b10101111 or 0b111 else return k end else b=l<o and 0x7dc8/b or 0b11100100 end elseif b>0b11000110 then b=l<o and b+-0x18 or 0b11000110 else b=n~=n and 0x175-b or 0b11100100 end elseif b<0b11110111 then p,b,_,i,q,d=g[0b10][0b11][g[0b10][0b10]],0b10001101,j,g[1][0b11][g[1][0b10]],1,g[0b11][0b11][g[0b11][0b10]]q=l+q elseif b>0xf7 then b=l>o and 0xaf or b+-0b1111001 else b,i=0b1111011,a.h(i(p,a.i(_)))end elseif b>0b1010111 then if b<0b10001101 then if b>0x7b then b=n~=n and 0xb8 or 0x27 else b,d=0x29cd/b,d(a.i(i))k=k..d end elseif b>0x8d then l,d,i,k=0,#j,1,""n,o=i,d-i b=o~=o and 0b10101111 or 0b100110 else b,p=0b1010,p(_,q)c,_,q=#h,g[0b10][0b11][g[0b10][0b10]],h e,c=l%c,1 e=e+c end elseif b>=0x26 then if b<=0x27 then if b>0b100110 then b=n<=0 and 0xb8 or 0x22bc/b else b=n>0 and 0x25b4/b or 0x85 end else l=l+n b=n>0 and 0b10101000 or 0x261/b end elseif b<=0b111 then b=n<=0 and b+0b11000000 or 0xc6 else b,_=0x9a6/b,a.h(_(q,e))end end end end,function(a,b)return a.F(a.t(a.q"|DOX4R%vB-aQ|;|bW>@1We5L6Wpi|LZ+Qv-Np5syZgXjL|9J*XZ*OpAWd99waCL5DXkYJaZ((Espj2;9|8i+%ZggREY5#9-DoH18Aaws}a%E&7Z)PC>bZBXFAZ%%7e`PEnNg!@z0)YQ?Zy;rJV_|UrWiB8LRdZ!Z|8;F}P;Yl-a_0z8Zww#^01QKN|7BrxWkPjybpLN|3P)vhP;CEUd1Z2Q5J+|ZZDDS2X=GAw|8I0qVRCc`Lib^FWdQ*JQUplvWnp9v2LnWMZ~t&)Z+C7DMr`kIZ*oluKyqne|7;6PWoC3kZ>??_;A{s9Bn%59P5*CXb!=r1RAv8obVF!ibW>&ja&~EBWd~GH{~%XkY-<EgVgGGq1b1O}WeneQWpr(29H3!h|7>LoNNIFJZ|is<B;gGOL?Bae{v03)LvL_-AXEQqX>J2WQ&0x~b9H8BX?R*_|8#V4b2=|Ca{pm>E@x?UXmvkgb#rBMV-f%-0PikiZ*2o0Ze(x$Z7u+5Zf7traQky;D_|{kY;<Y;Z6Tm9a%E<7Fa2m7pmQ&6VQFsvFLQEZFJojb|7>+(4Mu5YZ2B#Nb~j)SLu_en=VC!_2B9&a2u)%Cb8~EEb8{0<|8;b1X>Mgya{pm&b8umDWp4jtc?eQzXJ~ZqL2_*jBY{k1Xa7TQY;STFa$>!B27qOBX=D}PHUBU-H#aaiF*yGRLvM0rM|EkR5l?POZWZ7ZpiTY?;9+NF5>sezcXe!JG(bUPV*)^bZ*qABQ*dD@K>ucPZ*53ZRs{b-NKa4@MrmyQY!9giXJvF}WxsBA2SjOeDj@>@!mtiwY-wX_?^IAlZUO;h4N`q&E<hkha$$B)V1EfxZ(?k3co0DU1$JR<b!7@{t`(qcVIV0$2Lwa}|5J2tZ~;>fQ20PVSYT10Q)6LlW&a3Lb#5R-Z)9y{A)s_+L7@p&2qErA;Rb1LFyM3wL3e3wAWZ`WPjVSx-wjiDX>BOR1#lm4X>N2H7(fT$Vxa$HWo~3)Zgg|MNp5p=VQwCP5dTtTVQgu0bZPfvAX7I1asg)v{#!;2Np5y;Yh}Jm0cCOvaBL$$X#H;{0SZ%Na%ph+bRVHEt1&n-G&BD;IWsi{b9Zm|a%2WsAZtN%39ekAa&%&2pa}w?YyLREV`U3LY<FRQd2>&0RBv!pp!aEX1X3X$RzXnzMIcr&E;TMN{~#?wMN~m8FaIwfRAFsSXLbL1Wo{czXv3oaZXkByx~+5|zhh{|uwfv1K_LHlZ*FG{L3UxkbYXHJb95RY4WCADV|8;h034zU|3P$ZZ*y>HW&Ltu0dj5xba`-7Wd|-{f?x($BLpac{uzuiIW#geF*9>93{YfD!U0$fI{^Q1XlY|qQ)p>_a&!_@Wo%`SA?F}eZ!siSfOtl4&vIjB4JkodW(`UIZf0q2X>?^E_$(m-pcH~qVPt7_|8o~bZgy#MZ+mWSYM?}EW@c=FjzB^IL>YVKR-{B>WxsNCX=QT?H31;{kb(viLNfzNb3yA8NMnF(WC28FaQk#<gn(rRPH%EAZDDK$M}iKMAVDbq1w>_IVR;c!zhQY}VRLjv162GYz#&aII5jgfHP<%|MihW_W#$cKeQ-x0Vqs%zWR_qy31Vyn62S*ZhTx!Je+ofvbZH<)cp#5w0Yy@YpM0Q+h*4In;B<M2ZgB#_F^GX*1V~|eWlP~?GlK037zYJ#Xh3WYO_y(PWH2X2SU`P-2rpx7Z*D?hW*u&aK>s;6GZjW@Ze;I9X>xO`z-eq`Z%<}JY>VIoPiEl11ax6@YX`3(b<c8T2uv-ZpP&sv`E|sguYhbINN;fc3wNPKa&m8SI=vudu{bm`2yo>E|6^=nZEye(L+)5WY;R|UU{YmmuWxi^3)TZJn?P-Bo}-<h1WS@24MV%Y|8ikdbz*8|W8ZWNLt$>9fNW`>WMvFZZ?quLqcZsir64(>3PyEoY#U;7LZJ(6&On}E-k?8o1bSt1Z`DD^WW5oIBOq>XbZY`-`(y<&0B2<cXm$T*Wd(3yZe?uy9$V;RT{<9DZs&7#a9<(jKxKGkons$>as_PSVekNE-C@8$6iIUts8DkLuHa>42Ss>eY`=A6Wd%oUxxf;3RH9F2!Gc9*W*LC*2}5jesi0|XWq$>9Xk~3>4x8iJA|ZAxpbS#T;9_svcOc$@1!JSYa|-rihXGk3U~Oe`VHQ|{1yG%V3E{!qLNL((H90vr4O4Y)YG43!55p9}rcz~f;PemxrT_)90t8HDa@TMRLYkm$1!D+w{cnfFV`yP=6h-fNaBp)$AVY6$zi?%4b76GZAWPa_pIQZAV`(<PFF~VLL*_1;;NxI$=0OVlN<jR?3h<wls386u;ALzFWMyn-Icdef=c8|O2jaow!2bqDZ)ZhrWC`leKu<)%2C)EabZA!zMQ*{sAn;%iNkRW0Oks6rXdp$lP5}i*ssMBZWZ?~uPGw_jeJ9L=zXNmS3H1gE@Ij#fW^@VvRAFmnWN&wF-*X02aB}`23GiQ^lD!~J{-6%@0_p^!U%lWCRiGzyAaE;y?|?|)g2iWPbmD;hF7$veS7l6ZcAI5Fiv)8o>;R)6bM{-{WG!N2FLGgbWP>hc$O-o0f`TAJ5upEcWkGIaS7l-Ua!7S;VQz0}k!0ba*nu=a48;K3pm{Rr0vNF<Mu1~=RG{&qdj?Qdz;1L0R&C%9Z*npP-@>V(BxSNdoduAh3ruhKz$HTp^+Il<ZeKtYS8sCvY-Ch#R%vB-`o;lJ^I;KEWpHf2X=7n@Wn|I-a{pmxWeY}fWo6WRpwr<C6C_T3fDKi?{s2jCaCLNBLStWOWo2>^8KqNs!2M-jK?Yh$Ze(SDcm!=>bZ85Ipu1>v72^SN1^*ype`N|&VRUtJQzHEhDZyf4a!g@)|8I444M%KmV&7qGQ)pp0U~>k)PiAIwWpw0#WwmhRfDYV&YiSsuY5#K|b~X-IVQIZ{z^4vpWpwSpbo*~@qu^z90YM4=&}Ij6WpQ<Ba_0TOZfO!gVc<z*4OdKWVX|ioGow?NVgGUjb#!Jp2y_2+VsvSAY-I<JLvL<wo1l*%u%HQtO<`x}pobtU<5B|&{M@GZkuWnb2XAoxaKUp4NpnkOd2K{f-~?``KnzsPK)Z8rIzeN35+q|(?Qb+9Q*gwf14~cya|gGinZRyyX>|X20b&G2Zgp+@3Pi@hAVY6(dDB1`>41-9d6B?wXTCU~X=iR>Y;(Y*>$o7eVhSojWpXXwQgnC;N&KL5X}@A@WerkgG{AE6Q*<lBAY@c;XJ_|pWfMoBYeRK%&2nA<P;U<4h=2%CuX1T`au7fVGJt0PWo~u^X=870{{%#7Wn=_&Y3E~W2kv3eAPP)x%WrEw0|zpI1t9??cLqgvXJHITVKzsd3n!yNWMl{+*x?KM_MuWWfMs)Z0YW_n9Kd2_at(jRsiCgvV0L9hIe=rD;STptb#(rLL2Y7bx^qAu!uuf*PRd|L-*0tpWFT!pWpdpKx4?2?W03$2M)zTCZ1iRdS7~I+bZBlO4g^LN;tNO_W$giRf&oXIg5jW{0RNAJWgtXhb7*@DZO&k6Q)O)8Apa0Wd1Yd9Z+Bjp2S{OQasj3Xz2L87VRLluAa0RBWBxgSAZTfAIv@+QIKye;6+56oaC5+Aeub$GBPB30SO8(90O1VbY!6@z=0&~bb3J2=!D4K0c$y-W!S7XWX?E{GVQekFsN*e7c`ag`WM%hcEob^bEiy7TUpX)^1#Gfm4HTr_k04=fa|cggWpcM^V+dlvbaEGf2iIR;X?=kOs~~c8e+)%zX>Dn4&Vs*l2~=rrbgrTU=Rs+5UtoNIWpZWvWC@{TRAFKSa_?_*Wd}E;3RG|Ra&vFAq7Ff6ZGRwBZEtUMXqJKT4N)YL0P27SNNIF;LT`9}0bgioM}R+WUuSh`5y7TZ#@cN_L-Qb6M;bsNZvVrec_3?O!?gcyXCPz4vmir1VRT_^Z)eiL`eFZcWgsYHXyLoxi6CUdxdb4@k^jc9;k%<_Aav7mZw3GbgdpI+bYVSmxnpl~DGP5PAmUGNY;z67;XMWn<bd`P1_xumVQ+E<Y5j0Nz;gp`Wp@U}L094mzJO?8i{SxLUkX8WbZ_7z44Yv8bVhG-LuhGiyJQ8xAZ26?e4tJK^T1_9Wo&d|3I9}Ra%FR9Z)~q*32AN%z-?=Q2=dh>3X#Ia;tytWZ>Mcfa$|uqVh;GAWAkeusUg3i2SH?SzjAJ6We!F-U`G0z;B*cm8a!riZvS*3V{dG4ay|bdC37M^C38I8F9KmcjREBcb95yx<)d}NfPp}Cd?4on|1vW&Gc`CcYyV_-En;tUFJ=EXF*If{Wid7XF=jJjV>M<l|2bqgHDWenWY0A)Ha7ua=%QgU|2a4`Wi@6qIR9m4HDfU}HDv!|WHLB8W;QqfG&Es0GBIK{|1~mYWH>f2Xa2sRW@&6?F)noLcyzY}S5QE2cMZ)>>p)3v5WuAY21C1bbHShmaB@(f0{c=n=43MiZDDx72v%imZ)2H24eryTL2_+Q!WKbue{*GRVr+R#%%FQ=as-74MQv|H0OwLR5?BQ7hzvq+`($|ur3*%BWo(yZPiE_Z2<0KXfe3o=z-(**21RaRuAu(~W^8Y7at%f&Y;R%Wz!1Y3^@72v|4naXX=Z6<a=!{mb5ch_Wk77>We@D->L8&)@Sl{wjvz&NWn)I*a_I}$L-S$;c!3FXaQ}5~V`yS^Vg~<HZ*_8GWdl-wF*O5hWo`!WV)-+vAU5DaWoTh`{<^>r@Sm2Y@3^avAV`G;aiR(opk(`VbSOY)3`Svc;wy#?9>KBUq+$j`MtyRIzztVnY-@1FZ4uJIMsM;!Wn{ZydUhZK>R<>`Z*+sAy#|v*24-(^@?aOfFC{^4XLW2ZM+Lu2X>4qB2FSo@cXeq6<v@3C7@KClX>w_Gb1q*%b^kACWo|M7R|v00a%E+EAZ^{mQ*U%{a21LILvPtYu5Lm_W@h=I2MytLe@SEsP<3WzJ%IOfa|kP?3`}KaeRM)44M}8dWs4>&33uPXWlw<zYT+{ge*szvNM&JUAfnw09so~bYQEre5d1%ZF+x*ia&~EB;O#)hp~WDZ!Z0H;B7pw^0001@1^@#8ATt3510V<t|1|^zH4_p9GXE73S_>r%1_u8HArdAR1_lS-0Ko_iK0E=S2?qTN0)Yz%3pET{{|qG!2nG!z62B)H1|1GA0KgCb2n;q5S`8%*{|E*VBZ&q#MEgS<3_t*60G~YnNq#Uq3=SA1zYP*784@A_p)=Jz0YDQ0LW}`H6bAbhBLW~69t96S{sSNv2n{zFS`FVM4+sVs31}_=?e7V87$pm#6b2e92;>k5>>CnjPze7B=KVnk<^(kq6gwRM2N41Y4mTYH|1}j99Re>IF8>D}87&4M=OX_^8U`RH5-S|<1`Rzy0KgO;2A@PiG6n$wKpB8K{UHV57a1!FA|Ag7NkTFO0Rtci_YylJ3P2b;9t-mo0s(*uK^QwE4Br+42opR3ff*V5FAEC*NFRJiQ2!$?H8KnV9thtgMluZn0U$C8{{bEcEk`m70sk@%0Uaec2onE9CImDSAp|o27a#=yGypCt|2axSCK(_EH2)MO906+?FA;wy7%LbE8bc02-5>$LC>SXL$1oA!DINzyN($i%0saJmS{Wo82nH&zFA_8*8Q@9)z!ZNT3JXgz2muelq7Hxz4&eg8H2^~!VIcoI9uyt|2pdHH7@;9MBo!Y52>TpG8bKl*D?AzhI}|J#I29kO|1A+qK^_PUPyaFz0WuT;G86v+895m#9tkM-QZg3-p)wT#GXE9<2qH@(S|R@=BM1gAHxfK$Eh+#~0Kh5$CQ}3e>;fP|pi3bHBQH0J?*>a)S4|=x0E_!jT}>b$A{aO!&IbSz7&!pJOru6o_6T7HFbW|S9tJO|Qw;zKL>LJ}F%5zq*990;3`8<BpeQ@f9vdYB5+F07C_8^793}z?BTO|x|0x+i8z0^-FaJSR5eP>*G8z8?G8h3e904-_9RV^L0Uic1{Z|2iM?6O}5=8YiLO@yoz!V+`8UI@{9sx2R0W#AY0RrG$pi@Ht6fplg9wRLR2r5(lKtV7&BqS~Z2>UBk41qB_93?OB0thTs4k0obNBtxYAUH}@F$GZnLoy}-G9>{X{|g^rG9v*pA?E=yA_3t7p(g<u|4J$}9tRF%GXE$6G9&>AGhF{8S~4Uw2nIDTND@sx5ujrLz!9K}3S<NUCj?;v;BH`Cei5NLJ02`H0tSHo9HBWoBrP`r2>Uc$9zi-8P%Iz))_1`#3O8GyG5<<G9tK8dGA_PRKnZ9vF987{8UIl-DIN+wYchW+0WvKCGAsgNzcMQU2s>n5VL|^HP%<bU1}ba(24Dg~S~?^=2nJs^P!d%}Bw%X*z<(4T2OVrOFb5&*0)T+PWFZ8DH&BW124rz?Jpv#AS^H^rJpeg77*RST2VjasY6!qRgFFF2fj~?P0X={^Y!P4y#25}^-8c?tIR+X90Tc#(IuQXo9t9q31%&-PKp;Uo9yC4z{1u=+fk8VYH9rFP2s~v#Awn5gH2y#!NLn5RIBp*Q2{UgpG66C+zX38e0WvdnKt;K50Kfs`8Cp6q;5+|wGB*J-Gyw?zLu?~jLL@{8{{}r+5?xLP9v28qbORwc1AzhnpMdLZG6VxY1Oo*Ubo>J45+F%CKRiYP{0N{>!AUzLJx2on2t;ii3_Kli|7{HWK|XwWH2+jFW->VeGCaQlGCct@I)>m*`F8;!0zyYzXFw9mWK~jtdH}#cz!7`@GClz^KLIj3=>Y=ZK)`cA!B9IMze7y|2ugEZfl&WDBt%XE2upPSUm;OD97Rt82zyL*V8K!uXG9=?`&eqZVlsRkL2&;WZ%9G}GZk0=9Yb;%aY{rP|8Pk~5@}jS9{&qUfHFY=GDH6XGDiV2LIE;wMgcNKWgsqr0Kk7oW^qRnZeL{}`Gf$#5`ayGGDrbGGD!h4L;(WeQ(*snAzD);RR{(<NNEJ=1uKOE#Wi66T02QiR{{uB{e5%+T0108SORwlRemEOf_@AX1OI~_2M2~SO#%NhOaU2jP)Y~?PyizUArSuA|Nh)UEglCphyDXY5^!Bg8~_=&8FEmg00@Z!g9!gwf+Jd3Bw7f+21{-db7W}XiHrcilHf3k37`TXXdr@hAp|2#1R@<xdIbQ!;{bvXT3ICr08TG&5_Dy70Ez&>PQb7Mp-#X6!A`&vivxfc{|H%wJX%>KTXzTsPX&S=1p@-*RWbtOPy*yB0_;%&<aHwg>{1Sb9Zh==V7?JxgAiI;B@4h)FK`ldW`Tf<0Ki~C&H<qm22=upU_dvF{sVv)2wH?ZT3X*ETnGkL1%e$-`FsXo2w;Q|T3aRl0>D;r5_V?>9`^+ejR4>m2wR2!GFn?CT?htOssiK`0_<1?<OBumS<VRJ9Zh`*z$L(i5dP)BVmlsIU;+sHU52fpV?ZB$i2sKMT5}S3X<NGnTmZpc23`T7U%Lii0)b%$VgSKoy9Q(dp=AbU0)c1$BwKoDVBRike|;VXCy_E(rNI9ck}_8TGFAcp0e~`90WwqpGT&JN8GBr%z&VxoGFkxxfCy!dBmY`tBxVQ(XnOY&e{iM1m5FJN|C^euU5;W~tp8z<WM8ahl4k#724{kPFhOJQWf*&81fXgdd_Dld6dnm6mJ6W_VD<~3S^)?E7YJOA#cK)!YzhSez;6H+mf{W}Sq^~&<gejtJ09m=XaW$R%%N*QAOD4rj|OCW5`gb<Z3b=t!EbRa--u$A<94v&CzSs>lw*2)oke*6F^V!@0Ww?x-!fhSGF`F&N1OXHVgcbE2tu4P?_&WnU;}|ifQ$cdta6rWajbOzm~3-?Fh6Q+|9qifd@+tPW%mIxVF$uu0Uag(j|gR(CImDS|9Av47k32!H2(lDfjLT=eQ^JE1T++U8~~sH8G>jh7=UjG%W;~zfp-DGx_}y?{0v|MMICjJ8INdxb{+>TpfY9>!TtvzcNv3dG#&=?8=(~d2SHkJByxWU26u)Mi+s{R8KD5cX+Sli7yto4CV=ajAp|3M1R@<xlJo>1X+WAoVRs!Xk^ew>lboCed5GVM2Arv=!r~qT_Ya}2!r*ap7>TcP5{-Vs<e~vU6aO80l^K+6dlR3S7?uTs0szCHh`s{g79IslqyXR-{|IrM7+P{9boU4bd;;MH9tI(=q%vp$14J^x0D1pA9&C032y>kN|Dkz1ByD#B2>W!M!l8OQ9Bz2;0tj`U#6f!*ko|4+pn;Pf2^^>YGHL-bYymQEw*fM1ogh4@0U$@ejhKBBm4@)3tNZ}KufRR5GH(GgpKt*(Z2<z{5dftA@S%Y_9&~;J2>W}a&cT5@Bz1r90tkGi&|!iZnEiC{qb3S}qg6})2cVNOase`RzX39K0Wx!{05tuu0U$?}pneja<&OP;vjD)npg^=T|91g0cmXnW0sI2s48W`*T7o2m{|E+un283gxqZ0nA|C)*vA!rE-+_Y|nSuwv5*T%w0KpRoK?WL_3IOKmz(}+WfCyw5csc(zv>hV>8xa5hrT?gzEq?-l{{sT|0s@W$0{?XaQ3Ct{0tf#B^8o_o0Rq1N0s^D~0^b4x|F{7Hn*joj0{;TN0s<fcnF0R-)&c@F0x$yq9s=$H0`UO?|I-2jiva>>0{@)@0+#^-69WJD0RmzIiUI=vnF0dz0Rp!H{{qYc0t*6{0{;S~0Ro8v0v-PXO#;FK1V73DnVFfHnVJGV{{q1R0+a#*kpBY$3IcWlqyql}!2trp0s<QU0$&2P0s`#<{{lw>_5uQk0{;R-0)+trlmY(&v;qRn0s@2o0s?OWpaBAV{{n^q0@?xs75@S#0;T~1$pQZYN&*}L=>Y=&Qv!zq0`&p{|2hJ{0RsL40{_<n0yP410*3zr0)PPm7y@wr0zm?;0RrOz{{n~s0-pl{N&f=;0s>nCvjYDD`2hmm0Rrj&0s^T50{Q_0{}2Mv0s`X#0{12Y`W+wx0{;R30=WVLj{yS5{{aGn0RoK!0{_4P0;mE4HUj_P0Rr#>0x|;sECLn+8%!bu{(c|^00JO00S5mAAP5XK1Ozqz6A}b66%h$7-z+8y90V^!cmlI^00n<E!`=b~fdl^l1po;Y6dD=-DFOi=2m?DZ{{;Xt1OPGu0RIRJGy*Om7(jb03p^kK0_XuSApZd(4FCfGTM91$3=$m>fC7Zz5P<&|5d{D<04^K<ISv{`8ap8e-v<CD03ixP0~r4u2nPcIB>*DN87v0_>YxLFC;<O41_U4o3pEA$y#NyJAQ&A92L%5BC;%lL0WKMTEC>S#5jqBtApIARAQlAxI{-BQAUOsHAqWdL^$5ct69xeu3kL@O04D$<1_>z$cN9Jf#sC`!3<3fF5C9GU5;H9r`yUJVAR#mk2L+xFU>_MV3<2Q;LN)#ZKq&wt87c-0{UWHLGCU_KIy?Uy02B>9LJ}<X9R%PjS|AxI1r7fl4lfxl2M-zdD+mw;BR&}`3jYxVHWd~bEe6*T9TNkg6bNF-J?|MR2^9fCH9su(3MC-eAQmeWH2)9>2mm7h9T2|&2>=T?EdhWh{{SZ$DGC-DF#QRW!&*Np7dH_98~_s?4lo%nzX%r+C>0F=<QDf76(0s5B>*8A|0xI<B|91%07)DIKm;HdD8O!j7-3`op#lO70^9-u|7`-50|J2o0^bb+X#$aMAOQmJ=mG-dTcTY8n(qSw_5n&k<pKhKtN{Xw0|J&!;Qs>vA_V{h02Ti|7a}(qD+B?r5+oG?0N?@u-~y@u-~#~Q0|DR!0pJ9x0N@1z-~|ET1_R&*e?cD#DHaqLM#0wy9tK9h0Y(7`F8d)DMgs@}*8u|mqX7cH0s@`_-vZ_V0=#wt^Z~sA4qyQQ8XzxW5q~BIH4-Bf0Vsm|KsW(F0v!V@8Sg3s1T`~39UK&YEE6smE(ab2fawJTHpl=u2%rZd0Pj1R$}$L{2nGrHA6LLa;SmP{03t&G9z8=0AwdC_KnoM(sc3(}6p2+Rfq@2q6aN7M06axIB|qH_SO6jb973Te1CIeAF%4CK0pM0ZCI0{)1_B^312pds8~_!d;6?)r{}KWjECmD;Fz*;H1sqKvA^;%nOrtv;14ZEl6EgoAFa;b109F8hFd#WO5I`JN!2bp!A4M5A5C`24`l1>@L|Nb;O@9{=NJC5zOH2a)GecA>85JD}-!&OD4G9FpAwB;=6F3++2Phr?3N{%v4hseh-zph15e-^l0WtqaED|jz88Z@94gteRD8MKIzz-?F|0x7F6&)Q4H~$$n4+~NdA2$CY9RoTUIT8`S6Fn9?1tf|f9`6?i8U+rcL_<XX5JVgR8xkZG{Q<ne04V?rI4$=P0+_U-@&N+-_W}Z^O66z*D+2#n0*M0xumS@A4g#hE0-6E>|J?!tv;hDj2i_?_2^19?DFPux{{bczFDwHh9q&U!2SN=4Iy^b=4kZjATLS?EKTp#$Gcy1{2Ot2E0IrR}90W9s!8DA(IR6VJ5*RH6G!*X^8~_>;!YTkQ-!m)$0`(0*0s+4R00$*J6h6WoKPV^~J24v=AOQmX9A^Un03rwh1^WOK1f?Jf0Syzc8wd?HnZXl|fD-<WfiWC83Ih!j`5q470pK_QF&sEw3nvp9F%IAtaX{Y-CKDMh0b?5wzW^)%D>N+;L@cK?ECX{x5#bS~;5qwOH(9^|8!;ULT`X(i6c!(g00W4i{RAJvG(1fg2tMcnL@z@ELO-3s3I-3q6&nZ-I0vF275Wo^6s=+&ISw61-yJ?82MUY;9wWa38yPPO2&=&g`dy$Y0f7byCkPY$JflGw87~V62LB5v2oyaGGz0HGBN{HD03rY%_Zct^MZy3wLo3%CI}`_@3<;qS0RI^P9X2f(CK3JuLm~hd6c!^H|1k~@2o*jL1m86l8wU*xpb{PX0XSBm0vR$91os&-61jmNLN_A)A5nl1E&ulbKmR&DN;we*9vr^_1`q<$0qns6j{;o+srY1;;Fbdq{+FS?0RjmE*a7yGpa3FZ!Eqe{DlY^x6%x{*0y#o&!T%irDGWRwI5fQqg#m5@AsBmu9p5_z1Puh>;vH^P1_H7N1#$=oG6@2*)d~W#3k7Ek5M}@kA0RUe1`hP0C7|@9|2q%`4hTCD2fq;w2o5(A_h1zN1Tqv7016^Dj|~P8B0E7(;7?!`{S%*{6gv<G4+-8}023V*D~*OE0Dm7H7AqV87670s<-jK2pcmqS7(}7x;P)p0BaXl=1RWATB^4PQ03Zio+Mv%FC<GU|-~s>}68$0q;Ta+TfB*n{F*&?|8U`C5y<mSF9UUtO3^!dM{Sy+P7ZU{lH30uE9XSRcCI}H-JJ~@P2MI#pET91Y9S1NOE(#$8|1=dCNCp!!BL8C+6ax|{AR>P{Kn^AyBQ`c5Umg-KAS4^$8yn#N8671u88HebzY{eVGX)|NKnC$A3Q4lU5n(<ODH{DKSAY-z695%8|1Bs2E&>Gt8UF%S0-pi`jROAyfCB=U0|L4K0Rrm*0)GOW{{aH`0s<!jm-hhzjY&WO0(Ao4oC5?u@WufE0RIAv0|LYX0yF;NA<+Q>&jAAX_W}YJ<soeX)&c(GK=}d!hywzXzXAfc0s?~wKm%U_y#WH>lwbpmAj*_r8HWNPPry$>1_S>dQ!gV7J2wQ=GZbN=z+eLg!A}JHKj01n03rkd0IvW99Rb$C0xUoSegtAo0>T0U?8u-!1_PiD9RV%Epz31o+kqG!2|A)51_hrX2n;p`e8G2N1iosZ9TFlI2mAvEz8wJ*0`~y|WoE3>oIe>9V4NTf=m3%dpF08s4gujH>Hro05jzA04*>`a-8BJ$5*-CgBOe`01uSg<6#C&1Wg`M;`X2xj1z=Ae3kM<Jc?KId7$86<2mdt%DiS6a2N_o=1_%J)2ms&-0N_;#0pJP%;0glZ3jp9%3jp8@0pJV);0*xaRSg2*4guf}1K<w_;Pnp#;1CGl5IQ#o{~dflF&i%}GT#ING64a?f;BvU5+@V~1`#3v!0!kRK0N@y4jmHq=z$Y8FJWRJ7%+avqJlpJHWd~Gpj8P2$$$gJpaaDU2c&%)v4I@{7dl7dqNM}_<qOec4#5l$Kn?2#6c0fU=s*F6(*6RW5F`~T84*W+A}tmYDjOHqB6~_d0YDfA86^TB{~9y`Iv*7-ZQmXj8wMN#0T%{U9RlGV0_GpxqA~_y*9Qh524Nuv;36G$5@f*>667B}O7^0wB0?I#84BPd3g#rM1|<yvCgy@}2*D?+=i+1vAt(!nDG??ry9O&0K`aI>6d^8N4JZKR0R9am9StSjF9Yd_0GAOX0I%*5B`^jt9RV^1GyWUFGz2vi79I%C1U@nYHi0)l9R;T^2MEJJN`Nm)fEVu)CmIIQfO0DkTQ@XWfrSBf!4rGn|B(X%*8u{f0sjKO0s@`_0?PjZ0%QWv0Rra#0RpuF0=xkPyFf2_<Y)q!d!WhxnVFfHnVJH!?*Rlq*#Tq&0#N@1Km5$h%*@Qc%>vZ|0<HsK!*???GXOvYKj{Vp&&UA+l7pZE<N~(;0s`a#0=fbM^`Z#?xeA1V0|He40%HQ;0s>V8`#;kNBLaZ}1V8=Iie%>j0@VQmS8fD95XGSo!1DzJ|9Ju;2?7ED5B~dP6E7Go1sh0z0}d@51T+`*h5uv}4lEo19~A!;91<lK1RVwbfx!j~BoP-a3I8oEDGVME0409_DK;$z0*U0}_w@k+mw?j&0zLl#A_o8i01pc90Spoy3E&Y00Dm$7E*m)q1_l7XBnkoy5*q@eHva%I8#xFMIRpO2pcWhe94{jos}~Z8;2V}85cPm3|1&KR04V@1Govj7p@9qllVBm2Ai3WG1_2(8`M^0ceKVV&I|Bs|0)${41j>LCI|cV3(%=Ds{}UN01qKKUIR6JvAPWg19SH9)2n;*aKob}QcQO|j5~3kFX$&C04kR!kH4#9dD*pf`88QwE2p8Kx2gSf0Tq$7#CF?gt0ssqj;2kgy|1}r~4FD$qA^$rK3KI+$3=RDX_&_WQ9T_bM-3~~gEC4D4z%l@JBM6`m2)Y~q5XT|+7&$EmK?V>d2-guh5#oRsPe36y{Sw!JBmf{7Ck+1_|Mxo*3lt3Bcsn*j9JwF{6Q3ps4LcO)z}x{M{{SEvDhU$?73U@h5(0w<!8a2JeF|Ct9y=Bc6$b&mL<a!~5j+<fU>W}&1p`87LpeYH1fLNqABh+~-%CmuD-_@08HfJ}EkF`SDm5DatQ<fT8>}8e{}vsrAVe4+tp6fL8X>GCNF4totR_kxC9Ej_Odux)DLj5K|4I}VtSdhgD*vo4K@}{lFGK$qF03&{88EE>Ge;XTtTjm;|1_*OOCL6@Ip0koIDS9{fD<|Y8aD+h1pqVv|1Kvvmnab^WcMBzHU3~@85RittUEswI;=fG{}nu}KSLKje(x|q6cz>LHUKaGCpi!RBmgHrzb#!hP!~J?fED#32ZJ65f<ZqMK-YdSJO)QO216zQ|0q8#9YQ)D2>%94G7$kX2?6Ia3;|7m`oJHOHhn>~07nQDK|}u_{T@Of9R&b205I<-Id35ifg?XHzZp0aL<bX4AW7F9LN$h9MhBoW2loLo2nb*n9S08o06qXb9Ys4C|2h*!Kp8eiMgJK%7Do~`CrAGoI2TA6Jr)Y;0boc1U`YVrNew>LOaZ_|1VBmv;7S;)CmRHyOH6<z0>DeE0mDoI#7qODO#`G&{FXo#AS63a5*tqc87&eD7Ze>5`er~MCty2J5*rL(NKqR)C<TBa0|);a5dZxE0Y5Fin4mpT0*e9iqn
+local Rayfield = loadstring(game:HttpGet("https://sirius.menu/gen2"))()
+
+local window = Rayfield:CreateWindow({
+    name = "VAPE V1.5.0 -BETA-// TamNguyen",
+    subtitle = "I'm tired of this life, I need to escape. ",
+    sidebarLayout = true,
+    theme = "rose",
+})
+
+local tab = window:CreateTab({ name = "🔨 Panel", icon = panel })
+
+
+
+tab:CreateSlider({
+    name = "Field of view",
+    range = { 70, 120 },
+    increment = 1,
+    value = 90,
+    suffix = "°",
+    callback = function(value)
+        workspace.CurrentCamera.FieldOfView = value
+    end,
+})
+
+tab:CreateSlider({
+    name = "Speed",
+    range = { 16, 200 },
+    increment = 1,
+    value = 16,
+    suffix = "",
+    callback = function(value)
+        local character = game.Players.LocalPlayer.Character
+        local humanoid = character and character:FindFirstChildOfClass("Humanoid")
+        if humanoid then
+            humanoid.WalkSpeed = value
+        end
+    end,
+})
+
+tab:CreateSlider({
+    name = "Jump Power",
+    range = { 50, 200 },
+    increment = 1,
+    value = 50,
+    suffix = "",
+    callback = function(value)
+        local character = game.Players.LocalPlayer.Character
+        local humanoid = character and character:FindFirstChildOfClass("Humanoid")
+        if humanoid then
+            humanoid.UseJumpPower = true
+            humanoid.JumpPower = value
+        end
+    end,
+})
+
+local UIS = game:GetService("UserInputService")
+local player = game.Players.LocalPlayer
+
+local infJump = false
+
+local toggle = tab:CreateToggle({
+    name = "Infinite Jump",
+    value = false,
+    callback = function(state)
+        infJump = state
+    end,
+})
+
+UIS.JumpRequest:Connect(function()
+    if not infJump then return end
+    local character = player.Character
+    local humanoid = character and character:FindFirstChildOfClass("Humanoid")
+    if humanoid then
+        humanoid:ChangeState(Enum.HumanoidStateType.Jumping)
+    end
+end)
+
+local Players = game:GetService("Players")
+local RunService = game:GetService("RunService")
+local localPlayer = Players.LocalPlayer
+
+local espEnabled = false
+local highlights = {}
+
+local function removeESP(player)
+    if highlights[player] then
+        highlights[player]:Destroy()
+        highlights[player] = nil
+    end
+end
+
+local function addESP(player)
+    if player == localPlayer then return end
+    removeESP(player)
+
+    local character = player.Character
+    if not character then return end
+
+    local highlight = Instance.new("Highlight")
+    highlight.Name = "ESP"
+    highlight.DepthMode = Enum.HighlightDepthMode.AlwaysOnTop
+    highlight.FillTransparency = 0.5
+    highlight.OutlineTransparency = 0
+    highlight.Adornee = character
+    highlight.Parent = character
+    highlights[player] = highlight
+end
+
+local function setupPlayer(player)
+    player.CharacterAdded:Connect(function()
+        if espEnabled then
+            task.wait(0.1)
+            addESP(player)
+        end
+    end)
+end
+
+for _, p in ipairs(Players:GetPlayers()) do
+    setupPlayer(p)
+end
+Players.PlayerAdded:Connect(setupPlayer)
+Players.PlayerRemoving:Connect(removeESP)
+
+-- Đổi màu cầu vồng
+RunService.RenderStepped:Connect(function()
+    if not espEnabled then return end
+    local color = Color3.fromHSV(tick() % 5 / 5, 1, 1)
+    for _, highlight in pairs(highlights) do
+        highlight.FillColor = color
+        highlight.OutlineColor = color
+    end
+end)
+
+local toggle = tab:CreateToggle({
+    name = "ESP",
+    value = false,
+    callback = function(state)
+        espEnabled = state
+        if state then
+            for _, p in ipairs(Players:GetPlayers()) do
+                addESP(p)
+            end
+        else
+            for p in pairs(highlights) do
+                removeESP(p)
+            end
+        end
+    end,
+})
+
+local Players = game:GetService("Players")
+local RunService = game:GetService("RunService")
+local camera = workspace.CurrentCamera
+local localPlayer = Players.LocalPlayer
+
+local aimEnabled = false
+local smoothness = 0.2     -- 0.01 = rất mượt/chậm, 1 = khóa ngay
+local maxRadius = 250      -- chỉ aim người trong vòng tròn này (pixel, tính từ tâm màn hình)
+local targetPart = "Head"
+
+local function getClosestTarget()
+    local closest, shortest = nil, maxRadius
+    local center = Vector2.new(camera.ViewportSize.X / 2, camera.ViewportSize.Y / 2)
+
+    for _, player in ipairs(Players:GetPlayers()) do
+        if player ~= localPlayer and player.Character then
+            local humanoid = player.Character:FindFirstChildOfClass("Humanoid")
+            local part = player.Character:FindFirstChild(targetPart)
+
+            if humanoid and humanoid.Health > 0 and part then
+                local screenPos, onScreen = camera:WorldToViewportPoint(part.Position)
+                if onScreen then
+                    local dist = (Vector2.new(screenPos.X, screenPos.Y) - center).Magnitude
+                    if dist < shortest then
+                        shortest = dist
+                        closest = part
+                    end
+                end
+            end
+        end
+    end
+
+    return closest
+end
+
+RunService.RenderStepped:Connect(function()
+    if not aimEnabled then return end
+
+    local target = getClosestTarget()
+    if target then
+        local goal = CFrame.lookAt(camera.CFrame.Position, target.Position)
+        camera.CFrame = camera.CFrame:Lerp(goal, smoothness)
+    end
+end)
+
+tab:CreateToggle({
+    name = "Aim Player",
+    value = false,
+    callback = function(state)
+        aimEnabled = state
+    end,
+})
+
+tab:CreateSlider({
+    name = "Aim Smoothness",
+    range = { 1, 100 },
+    increment = 1,
+    value = 20,
+    suffix = "%",
+    callback = function(value)
+        smoothness = value / 100
+    end,
+})
+
+tab:CreateButton({
+    name = "Free Cam",
+    callback = function()
+        local Players = game:GetService("Players")
+        local RunService = game:GetService("RunService")
+        local UIS = game:GetService("UserInputService")
+        local camera = workspace.CurrentCamera
+        local player = Players.LocalPlayer
+
+        -- Bấm lần 2 để tắt
+        if getgenv then
+            local env = getgenv()
+            if env.FreeCamStop then
+                env.FreeCamStop()
+                env.FreeCamStop = nil
+                return
+            end
+        end
+
+        local speed = 50
+        local yaw, pitch = 0, 0
+
+        local controls
+        pcall(function()
+            controls = require(player.PlayerScripts:WaitForChild("PlayerModule")):GetControls()
+        end)
+        if controls then controls:Disable() end
+
+        local rx, ry = camera.CFrame:ToOrientation()
+        pitch, yaw = rx, ry
+        camera.CameraType = Enum.CameraType.Scriptable
+
+        local conn
+        conn = RunService.RenderStepped:Connect(function(dt)
+            -- Xoay camera khi giữ chuột phải
+            if UIS:IsMouseButtonPressed(Enum.UserInputType.MouseButton2) then
+                UIS.MouseBehavior = Enum.MouseBehavior.LockCurrentPosition
+                local delta = UIS:GetMouseDelta()
+                yaw = yaw - delta.X * 0.003
+                pitch = math.clamp(pitch - delta.Y * 0.003, -1.5, 1.5)
+            else
+                UIS.MouseBehavior = Enum.MouseBehavior.Default
+            end
+
+            local rot = CFrame.fromOrientation(pitch, yaw, 0)
+
+            -- Di chuyển
+            local move = Vector3.zero
+            if UIS:IsKeyDown(Enum.KeyCode.W) then move += Vector3.new(0, 0, -1) end
+            if UIS:IsKeyDown(Enum.KeyCode.S) then move += Vector3.new(0, 0, 1) end
+            if UIS:IsKeyDown(Enum.KeyCode.A) then move += Vector3.new(-1, 0, 0) end
+            if UIS:IsKeyDown(Enum.KeyCode.D) then move += Vector3.new(1, 0, 0) end
+            if UIS:IsKeyDown(Enum.KeyCode.E) then move += Vector3.new(0, 1, 0) end
+            if UIS:IsKeyDown(Enum.KeyCode.Q) then move += Vector3.new(0, -1, 0) end
+
+            local currentSpeed = speed
+            if UIS:IsKeyDown(Enum.KeyCode.LeftShift) then
+                currentSpeed = speed * 3
+            end
+
+            local pos = camera.CFrame.Position + rot:VectorToWorldSpace(move) * currentSpeed * dt
+            camera.CFrame = CFrame.new(pos) * rot
+        end)
+
+        -- Hàm tắt free cam
+        local function stop()
+            conn:Disconnect()
+            UIS.MouseBehavior = Enum.MouseBehavior.Default
+            camera.CameraType = Enum.CameraType.Custom
+            local char = player.Character
+            local hum = char and char:FindFirstChildOfClass("Humanoid")
+            if hum then camera.CameraSubject = hum end
+            if controls then controls:Enable() end
+        end
+
+        if getgenv then getgenv().FreeCamStop = stop end
+    end,
+})
+
+local Players = game:GetService("Players")
+local RunService = game:GetService("RunService")
+local player = Players.LocalPlayer
+
+local antiFling = false
+local conn
+local lastSafeCFrame
+
+local MAX_SPEED = 150       -- vận tốc ngang tối đa được coi là bình thường
+local MAX_SPIN = 40         -- tốc độ xoay tối đa
+
+local function start()
+    conn = RunService.Stepped:Connect(function()
+        -- 1) Tắt va chạm với người chơi khác (kẻ fling chỉ có tác dụng khi va chạm được)
+        for _, other in ipairs(Players:GetPlayers()) do
+            if other ~= player and other.Character then
+                for _, part in ipairs(other.Character:GetDescendants()) do
+                    if part:IsA("BasePart") and part.CanCollide then
+                        part.CanCollide = false
+                    end
+                end
+            end
+        end
+
+        -- 2) Chặn vận tốc bất thường trên nhân vật của mình
+        local char = player.Character
+        local root = char and char:FindFirstChild("HumanoidRootPart")
+        local hum = char and char:FindFirstChildOfClass("Humanoid")
+        if not (root and hum) or hum.Health <= 0 then return end
+
+        local vel = root.AssemblyLinearVelocity
+        local horizontal = Vector3.new(vel.X, 0, vel.Z).Magnitude
+        local limit = math.max(MAX_SPEED, hum.WalkSpeed * 3)
+
+        if horizontal > limit or root.AssemblyAngularVelocity.Magnitude > MAX_SPIN then
+            root.AssemblyLinearVelocity = Vector3.zero
+            root.AssemblyAngularVelocity = Vector3.zero
+            if lastSafeCFrame then
+                root.CFrame = lastSafeCFrame
+            end
+        else
+            lastSafeCFrame = root.CFrame
+        end
+    end)
+end
+
+local function stop()
+    if conn then
+        conn:Disconnect()
+        conn = nil
+    end
+end
+
+tab:CreateToggle({
+    name = "Anti Fling",
+    value = false,
+    callback = function(state)
+        antiFling = state
+        if state then start() else stop() end
+    end,
+})
+
+local Players = game:GetService("Players")
+local RunService = game:GetService("RunService")
+local UIS = game:GetService("UserInputService")
+local player = Players.LocalPlayer
+
+local floatEnabled = false
+local floatHeight = 0          -- độ cao đang giữ (studs so với lúc bật)
+local floatConn
+local bv                       -- BodyVelocity giữ nhân vật lơ lửng
+
+local FLOAT_SPEED = 25         -- tốc độ lên/xuống khi giữ nút
+
+local function cleanup()
+    if floatConn then floatConn:Disconnect() floatConn = nil end
+    if bv then bv:Destroy() bv = nil end
+end
+
+local function startFloat()
+    cleanup()
+
+    local char = player.Character
+    local root = char and char:FindFirstChild("HumanoidRootPart")
+    local hum = char and char:FindFirstChildOfClass("Humanoid")
+    if not (root and hum) then return end
+
+    bv = Instance.new("BodyVelocity")
+    bv.Name = "FloatVelocity"
+    bv.MaxForce = Vector3.new(0, math.huge, 0)   -- chỉ khóa trục Y, vẫn đi ngang bình thường
+    bv.Velocity = Vector3.zero
+    bv.Parent = root
+
+    floatConn = RunService.RenderStepped:Connect(function()
+        if not (bv and bv.Parent) then return end
+
+        local up = UIS:IsKeyDown(Enum.KeyCode.E) or UIS:IsKeyDown(Enum.KeyCode.Space)
+        local down = UIS:IsKeyDown(Enum.KeyCode.Q) or UIS:IsKeyDown(Enum.KeyCode.LeftControl)
+
+        if up then
+            bv.Velocity = Vector3.new(0, FLOAT_SPEED, 0)
+        elseif down then
+            bv.Velocity = Vector3.new(0, -FLOAT_SPEED, 0)
+        else
+            bv.Velocity = Vector3.zero   -- đứng yên trên không
+        end
+    end)
+end
+
+-- Tự bật lại khi respawn
+player.CharacterAdded:Connect(function()
+    if floatEnabled then
+        task.wait(0.5)
+        startFloat()
+    end
+end)
+
+tab:CreateToggle({
+    name = "Float",
+    value = false,
+    callback = function(state)
+        floatEnabled = state
+        if state then
+            startFloat()
+        else
+            cleanup()
+        end
+    end,
+})
+
+local Players = game:GetService("Players")
+local RunService = game:GetService("RunService")
+local player = Players.LocalPlayer
+
+local hitboxEnabled = false
+local hitboxSize = 10
+local hitboxTransparency = 0.7
+local originals = {}   -- lưu kích thước gốc để khôi phục
+
+local function resetPart(root)
+    local data = originals[root]
+    if data and root.Parent then
+        root.Size = data.Size
+        root.Transparency = data.Transparency
+        root.CanCollide = data.CanCollide
+    end
+    originals[root] = nil
+end
+
+local function resetAll()
+    for root in pairs(originals) do
+        resetPart(root)
+    end
+end
+
+RunService.RenderStepped:Connect(function()
+    if not hitboxEnabled then return end
+
+    for _, other in ipairs(Players:GetPlayers()) do
+        if other ~= player and other.Character then
+            local root = other.Character:FindFirstChild("HumanoidRootPart")
+            local hum = other.Character:FindFirstChildOfClass("Humanoid")
+
+            if root and hum and hum.Health > 0 then
+                if not originals[root] then
+                    originals[root] = {
+                        Size = root.Size,
+                        Transparency = root.Transparency,
+                        CanCollide = root.CanCollide,
+                    }
+                end
+                root.Size = Vector3.new(hitboxSize, hitboxSize, hitboxSize)
+                root.Transparency = hitboxTransparency
+                root.CanCollide = false
+                root.Massless = true
+            end
+        end
+    end
+end)
+
+-- Dọn dữ liệu khi người chơi rời game
+Players.PlayerRemoving:Connect(function(p)
+    if p.Character then
+        local root = p.Character:FindFirstChild("HumanoidRootPart")
+        if root then originals[root] = nil end
+    end
+end)
+
+tab:CreateToggle({
+    name = "HitBox",
+    value = false,
+    callback = function(state)
+        hitboxEnabled = state
+        if not state then
+            resetAll()
+        end
+    end,
+})
+
+tab:CreateSlider({
+    name = "HitBox Size",
+    range = { 2, 50 },
+    increment = 1,
+    value = 10,
+    suffix = "",
+    callback = function(value)
+        hitboxSize = value
+    end,
+})
+
+tab:CreateInput({
+    name = "Teleport To Player",
+    numeric = false,
+    value = "",
+    placeholder = "Username",
+    callback = function(text)
+        if text == "" then return end
+
+        local Players = game:GetService("Players")
+        local localPlayer = Players.LocalPlayer
+        local query = text:lower()
+
+        -- Tìm người chơi theo tên hoặc tên hiển thị (gõ một phần cũng được)
+        local target
+        for _, p in ipairs(Players:GetPlayers()) do
+            if p ~= localPlayer then
+                local name = p.Name:lower()
+                local display = p.DisplayName:lower()
+                if name:sub(1, #query) == query or display:sub(1, #query) == query then
+                    target = p
+                    break
+                end
+            end
+        end
+
+        if not target then
+            warn("Not Found player" .. text)
+            return
+        end
+
+        local myChar = localPlayer.Character
+        local myRoot = myChar and myChar:FindFirstChild("HumanoidRootPart")
+        local targetRoot = target.Character and target.Character:FindFirstChild("HumanoidRootPart")
+
+        if myRoot and targetRoot then
+            -- Dịch ra sau lưng mục tiêu 3 studs để không bị kẹt vào người họ
+            myRoot.CFrame = targetRoot.CFrame * CFrame.new(0, 0, 3)
+        else
+            warn("Player not loaded")
+        end
+    end,
+})
+
+local Players = game:GetService("Players")
+local RunService = game:GetService("RunService")
+local player = Players.LocalPlayer
+
+local invisEnabled = false
+local conn
+
+-- Ẩn/hiện toàn bộ nhân vật (phía bạn, ai cũng sẽ thấy tuỳ cách game đồng bộ)
+local function setInvisible(char, invisible)
+    for _, obj in ipairs(char:GetDescendants()) do
+        if obj:IsA("BasePart") and obj.Name ~= "HumanoidRootPart" then
+            obj.LocalTransparencyModifier = invisible and 1 or 0
+        elseif obj:IsA("Decal") or obj:IsA("Texture") then
+            obj.Transparency = invisible and 1 or 0
+        end
+    end
+end
+
+local function start()
+    if conn then conn:Disconnect() end
+    conn = RunService.RenderStepped:Connect(function()
+        local char = player.Character
+        if char then
+            setInvisible(char, true)
+        end
+    end)
+end
+
+local function stop()
+    if conn then
+        conn:Disconnect()
+        conn = nil
+    end
+    local char = player.Character
+    if char then
+        setInvisible(char, false)
+    end
+end
+
+-- Tự áp dụng lại khi respawn
+player.CharacterAdded:Connect(function()
+    if invisEnabled then
+        task.wait(0.5)
+        start()
+    end
+end)
+
+tab:CreateButton({
+    name = "Invisible",
+    callback = function()
+        invisEnabled = not invisEnabled
+        if invisEnabled then start() else stop() end
+    end,
+})
+
+tab:CreateButton({
+    name = "Realistic Shader",
+    callback = function()
+        local Lighting = game:GetService("Lighting")
+        local Players = game:GetService("Players")
+
+        -- Bấm lần 2 để tắt và trả về như cũ
+        if getgenv and getgenv().ShaderStop then
+            getgenv().ShaderStop()
+            getgenv().ShaderStop = nil
+            return
+        end
+
+        -- Lưu cài đặt gốc để khôi phục
+        local saved = {
+            Brightness = Lighting.Brightness,
+            ClockTime = Lighting.ClockTime,
+            Ambient = Lighting.Ambient,
+            OutdoorAmbient = Lighting.OutdoorAmbient,
+            ColorShift_Top = Lighting.ColorShift_Top,
+            EnvironmentDiffuseScale = Lighting.EnvironmentDiffuseScale,
+            EnvironmentSpecularScale = Lighting.EnvironmentSpecularScale,
+            GlobalShadows = Lighting.GlobalShadows,
+            ExposureCompensation = Lighting.ExposureCompensation,
+            FogEnd = Lighting.FogEnd,
+        }
+
+        local created = {}
+        local function add(class, props)
+            local obj = Instance.new(class)
+            for k, v in pairs(props) do obj[k] = v end
+            obj.Parent = Lighting
+            table.insert(created, obj)
+            return obj
+        end
+
+        -- Ánh sáng nền
+        Lighting.Brightness = 3
+        Lighting.ClockTime = 15.5
+        Lighting.GlobalShadows = true
+        Lighting.Ambient = Color3.fromRGB(70, 70, 80)
+        Lighting.OutdoorAmbient = Color3.fromRGB(100, 100, 110)
+        Lighting.ColorShift_Top = Color3.fromRGB(255, 240, 210)
+        Lighting.EnvironmentDiffuseScale = 1
+        Lighting.EnvironmentSpecularScale = 1
+        Lighting.ExposureCompensation = 0.2
+        Lighting.FogEnd = 100000
+
+        -- Hiệu ứng hậu kỳ
+        add("BloomEffect", {
+            Intensity = 0.4,
+            Size = 24,
+            Threshold = 1.8,
+        })
+
+        add("SunRaysEffect", {
+            Intensity = 0.15,
+            Spread = 0.8,
+        })
+
+        add("ColorCorrectionEffect", {
+            Brightness = 0,
+            Contrast = 0.15,
+            Saturation = 0.15,
+            TintColor = Color3.fromRGB(255, 248, 240),
+        })
+
+        add("DepthOfFieldEffect", {
+            FarIntensity = 0.1,
+            FocusDistance = 60,
+            InFocusRadius = 50,
+            NearIntensity = 0,
+        })
+
+        add("Atmosphere", {
+            Density = 0.3,
+            Offset = 0.25,
+            Color = Color3.fromRGB(199, 215, 235),
+           
